@@ -125,11 +125,6 @@ The project aims to follow these principles:
 
 These principles describe the intended design direction and do not imply that any particular security control has already been implemented or audited.
 
-## License
-
-**UGODAI Wallet** is licensed under the [Apache License 2.0](LICENSE).
-Copyright &copy; 2026 UGODAI
-
 ## Disclaimer
 
 **UGODAI Wallet** is intended to support financial awareness and decision-making.
@@ -144,4 +139,9 @@ A financial wallet should do more than tell you what you have.
 
 It should help you understand what you can do, what you might risk, and how today’s decisions affect tomorrow’s possibilities.
 
-UGODAI — Know before you spend!
+**UGODAI — Know before you spend!**
+
+## License
+
+**UGODAI Wallet** is licensed under the [Apache License 2.0](LICENSE).    
+Copyright &copy; 2026 UGODAI
