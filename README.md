@@ -125,6 +125,89 @@ The project aims to follow these principles:
 
 These principles describe the intended design direction and do not imply that any particular security control has already been implemented or audited.
 
+## Responsible AI and EU AI Act
+
+UGODAI Wallet is being designed with transparency, user autonomy,
+privacy, and accountability as core principles.
+
+The project aims to align its AI system design and development
+practices with applicable European Union requirements, including
+Regulation (EU) 2024/1689 (the EU Artificial Intelligence Act).
+
+#### Intended use
+
+The initial product scope focuses on personal financial
+decision support, including expense planning, financial scenario
+analysis, and explanations of potential spending consequences.
+
+UGODAI Wallet is not intended to make lending decisions, assign
+creditworthiness scores, or determine eligibility for financial
+services as part of its initial scope.
+
+Any expansion into these or other regulated use cases requires
+a separate assessment of the applicable legal and regulatory
+requirements.
+
+#### Transparency
+
+Users should be clearly informed when they interact with an
+AI-powered assistant, where required by applicable law.
+
+AI-generated explanations should distinguish available facts,
+calculated results, assumptions, estimates, and uncertainties.
+
+The application should not present hypothetical scenarios
+or uncertain predictions as guaranteed financial outcomes.
+
+#### Human autonomy
+
+UGODAI Wallet is designed to support informed financial decisions,
+not to replace the user's judgment.
+
+Financial recommendations should explain their reasoning and
+relevant limitations. Users should remain in control of their
+financial choices.
+
+AI-generated recommendations must not independently authorise
+financial transactions.
+
+#### Reliability and accountability
+
+Financial calculations should be performed by explicit,
+testable components rather than relying exclusively on
+language-model outputs.
+
+The system should preserve sufficient information to explain
+how a recommendation was produced, subject to applicable
+privacy and data-protection requirements.
+
+Material limitations, missing data, and assumptions should
+be communicated to users when relevant to a decision.
+
+#### Privacy and data protection
+
+The project aims to follow privacy-by-design and data-minimisation
+principles.
+
+Personal financial data should be processed only for defined
+purposes, with appropriate safeguards and retention practices.
+
+The applicable data-protection requirements must be assessed
+before processing personal data in production.
+
+#### Compliance status
+
+These principles describe the project's intended design direction.
+They do not constitute a declaration that the software complies
+with the EU AI Act, GDPR, or other applicable laws.
+
+Regulatory obligations depend on the implemented functionality,
+the system's intended purpose, the roles of the relevant parties,
+and the circumstances in which the system is deployed.
+
+Compliance must be assessed and verified before the relevant
+functionality is placed on the market or put into service.
+
 ## Disclaimer
 
 **UGODAI Wallet** is intended to support financial awareness and decision-making.
